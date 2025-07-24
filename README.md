@@ -160,4 +160,5 @@ GitHub Copilot assisted with:
 
 ## 📄 License
 
-This project is open-source and free to use for academic or educational purposes.
+This project is private and intended solely for academic or educational use by the original author.
+Do not redistribute, publish, or use commercially without explicit permission.
